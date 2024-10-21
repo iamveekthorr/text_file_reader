@@ -1,0 +1,5 @@
+The error indicates that the capturedOutput attribute is not being set correctly in the setUp method. To fix this, ensure that the capturedOutput attribute is properly initialized in the setUp method and accessible to all test methods.
+
+https://eu-west-1.console.aws.amazon.com/dynamodbv2/home?region=eu-west-1#item-explorer
+
+https://meet.google.com/?authuser=0
